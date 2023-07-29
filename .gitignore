@@ -1,7 +1,8 @@
 env/
-# .env
+.env
 .DS_STORE
 __pycache__/
 ../.vscode/
 .vscode/
 archivo.log
+historial/
